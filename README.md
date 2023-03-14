@@ -124,3 +124,29 @@ classDiagram
         processCollect(uint256 referrerProfileId, address collector, uint256 profileId, uint256 pubId, bytes calldata data)
     } 
 ```
+```mermaid
+flowchart LR
+    a[library DataTypes]
+    b(enum ProtocolState)
+    c(enum PubType)
+    d(stuct EIP712Signature)
+    e(struct ProfileStruct)
+    f(struct PublicationStruct)
+    g(struct CreateProfileData)
+    h(struct SetDefaultProfileWithSigData)
+    i(struct SetFollowModuleWithSigData)
+    j(struct SetDispatcherWithSigData)
+    k(struct SetProfileImageURIWithSigData)
+    l(struct SetFollowNFTURIWithSigData)
+    m(struct PostData)
+    n(struct PostWithSigData)
+    o(struct CommentData)
+    p(struct CommentWithSigData)
+    q(struct MirrorData)
+    r(struct MirrorWithSigData)
+    s(struct FollowWithSigData)
+    t(struct CollectWithSigData)
+    u(struct SetProfileMetadataWithSigData)
+    v(struct ToggleFollowWithSigData)
+    a -->|has| b & c & d & e & f & g & h & i & j & k & l & m & n & o & p & q & r & s & t & u & v
+```
