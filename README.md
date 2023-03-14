@@ -65,7 +65,7 @@ classDiagram
     }
     class IReferenceModule {
         <<interface>>
-        To be explained in plain text
+        This is the standard interface for all Lens-compatible ReferenceModules.
         initializeReferenceModule(uint256 profileId,uint256 pubId,bytes calldata data)
         processComment(uint256 profileId,uint256 profileIdPointed,uint256 pubIdPointed,bytes calldata data)
         processMirror(uint256 profileId,uint256 profileIdPointed,uint256 pubIdPointed,bytes calldata data)
