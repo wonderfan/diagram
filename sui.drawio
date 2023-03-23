@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T00:02:16.066Z" agent="5.0 (Macintosh)" etag="xX2kYRA9Jy74LKHjza75" version="21.0.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-23T00:04:42.589Z" agent="5.0 (Macintosh)" etag="AxGHGh_Nc-oMmtaaCBTs" version="21.0.10" type="github" pages="2">
   <diagram name="Page-1" id="1jD1X2tEOLxtZrq0bHsX">
     <mxGraphModel dx="794" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,6 +71,89 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-22" value="How to use Wallet?" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="153" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-23" value="Install Wallet App" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="223" y="20" width="143" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-24" value="Set a secure password" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="416" y="20" width="175" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-25" value="Create or Import Wallet" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="642" y="20" width="188" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-26" value="Back up your wallet" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="879" y="20" width="159" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-27" value="Add funds to your wallet" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="20" width="194" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-28" value="Check Balance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1332" y="20" width="121" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-29" value="Make transactions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1503" y="20" width="146" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-30" value="Recipient&#39;s wallet address" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1698" y="20" width="202" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-31" value="Amount to send" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="20" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-32" value="Confirm transaction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="20" width="159" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9990196477353962;exitY=0.5;entryX=-0.0010489083670236015;entryY=0.5;rounded=0;" edge="1" parent="1" source="IxNaug_6mPB2wjnl-gCI-22" target="IxNaug_6mPB2wjnl-gCI-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.001981401776934;exitY=0.5;entryX=0.0016190883091517856;entryY=0.5;rounded=0;" edge="1" parent="1" source="IxNaug_6mPB2wjnl-gCI-23" target="IxNaug_6mPB2wjnl-gCI-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0037143380301339;exitY=0.5;entryX=-0.001861653429396609;entryY=0.5;rounded=0;" edge="1" parent="1" source="IxNaug_6mPB2wjnl-gCI-24" target="IxNaug_6mPB2wjnl-gCI-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.996631216495595;exitY=0.5;entryX=0.0023060924602004715;entryY=0.5;rounded=0;" edge="1" parent="1" source="IxNaug_6mPB2wjnl-gCI-25" target="IxNaug_6mPB2wjnl-gCI-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0010482500184257;exitY=0.5;entryX=0.0008591327470602448;entryY=0.5;rounded=0;" edge="1" parent="1" source="IxNaug_6mPB2wjnl-gCI-26" target="IxNaug_6mPB2wjnl-gCI-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9984536711702642;exitY=0.5;entryX=-0.0024792379584194215;entryY=0.5;rounded=0;" edge="1" parent="1" source="IxNaug_6mPB2wjnl-gCI-27" target="IxNaug_6mPB2wjnl-gCI-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9960056021193827;exitY=0.5;entryX=-0.0033104256407855306;entryY=0.5;rounded=0;" edge="1" parent="1" source="IxNaug_6mPB2wjnl-gCI-28" target="IxNaug_6mPB2wjnl-gCI-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.994064017517926;exitY=0.5;entryX=0.0006601314733524134;entryY=0.5;rounded=0;" edge="1" parent="1" source="IxNaug_6mPB2wjnl-gCI-29" target="IxNaug_6mPB2wjnl-gCI-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9997525356783725;exitY=0.5;entryX=-0.000384521484375;entryY=0.5;rounded=0;" edge="1" parent="1" source="IxNaug_6mPB2wjnl-gCI-30" target="IxNaug_6mPB2wjnl-gCI-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxNaug_6mPB2wjnl-gCI-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9965386023888221;exitY=0.5;entryX=-0.002830073518573113;entryY=0.5;rounded=0;" edge="1" parent="1" source="IxNaug_6mPB2wjnl-gCI-31" target="IxNaug_6mPB2wjnl-gCI-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
