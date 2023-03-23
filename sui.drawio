@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T23:44:31.604Z" agent="5.0 (Macintosh)" etag="FYPea4mQPnBTcwsJvjpc" version="21.0.10" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-23T23:50:06.453Z" agent="5.0 (Macintosh)" etag="vZ3zHdREuROj7r19MkTA" version="21.0.10" type="github" pages="5">
   <diagram name="blockchain" id="1jD1X2tEOLxtZrq0bHsX">
     <mxGraphModel dx="1034" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -638,10 +638,22 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6HZhF4VnNjE_8Bt_tBdi" name="Page-5">
-    <mxGraphModel dx="794" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LcJQ0CN_Tasgkh06WNk1-2" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="LcJQ0CN_Tasgkh06WNk1-3" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;rounded=0;" vertex="1" parent="LcJQ0CN_Tasgkh06WNk1-2">
+          <mxGeometry x="20" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LcJQ0CN_Tasgkh06WNk1-4" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;rounded=0;" vertex="1" parent="LcJQ0CN_Tasgkh06WNk1-2">
+          <mxGeometry x="20" y="120" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LcJQ0CN_Tasgkh06WNk1-5" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;rounded=0;" vertex="1" parent="LcJQ0CN_Tasgkh06WNk1-2">
+          <mxGeometry x="20" y="240" width="460" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
