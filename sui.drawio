@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T22:48:40.752Z" agent="5.0 (Macintosh)" etag="JNJatyjHUqUJv1ewSY0Z" version="21.0.10" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-23T22:50:13.360Z" agent="5.0 (Macintosh)" etag="GwiNLLfX9KFBoK_BC8xD" version="21.0.10" type="github" pages="5">
   <diagram name="blockchain" id="1jD1X2tEOLxtZrq0bHsX">
     <mxGraphModel dx="1034" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -642,11 +642,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LcJQ0CN_Tasgkh06WNk1-4" value="Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="LcJQ0CN_Tasgkh06WNk1-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="210" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="LcJQ0CN_Tasgkh06WNk1-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
